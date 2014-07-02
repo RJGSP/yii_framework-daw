@@ -1,0 +1,16 @@
+Breve descrição:
+Na pasta segue um ficheiro com a tabela que usei baseada num trabalho que desenvolvemos para BDACA de utilizadores
+O utilizador que usei para teste de login na framework foi
+Username: fab
+Password: fab
+
+Basta fazer um import para o sql e fica com o acesso á base de dados.
+
+Segue também um ficheiro em zip com o framework yii.
+
+No 'Hellow world' realizei uma ligação à base de dados com a tabela referida acima.
+O login na aplicação após a implementação da tabela é o descrito acima.
+Após o login aparece mais um separador com os users disponíveis na base de dados.
+
+
+Caso tenha algum problema com a instalação da framework basta dizer que colocarei lá um tutorial de instalação.
